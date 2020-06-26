@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "My LetterBox",
+    "description": "Baccalauréat Project ©2020",
+    "slug": "MyLetterBox",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "https://zupimages.net/up/20/09/ncp1.png",
+    "splash": {
+      "image": "./Screens/Files/smallicon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F0F0F0"
+    },
+    "loading": {
+      "icon": "https://zupimages.net/up/20/09/ncp1.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "android": {
+      "package": "com.edbranly.myletterbox",
+      "versionCode": 1
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}
